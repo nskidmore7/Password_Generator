@@ -1,11 +1,11 @@
 var generateBtn = document.querySelector("#generate");
 var password = document.getElementById("password");
-var lowerCase = "abcdefghijklmnopqrstuvwxyz";
 var confirmNumber
 var confirmLowercase
 var confirmUppercase
 var confirmSymbol
 upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+lowerCase = "abcdefghijklmnopqrstuvwxyz";
 number = "1234567890";
 symbol = "!@#$%^&*()";
 
